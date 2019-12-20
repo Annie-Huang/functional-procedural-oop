@@ -4,4 +4,6 @@ https://github.com/Annie-Huang/functional-procedural-oop
 
 ======================================================================
 
+The more complex your app becomes, you generally go to functional or oop style.
 
+Small app generally works fine for procedure style.
